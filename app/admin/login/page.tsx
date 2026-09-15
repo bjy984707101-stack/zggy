@@ -1,0 +1,1 @@
+import LoginForm from "@/components/LoginForm"; export default function Page(){return <main className="login"><div><i>CRAFTS TOWER</i><h1>招商后台</h1><p>管理员登录后管理网站内容与房源。</p><LoginForm/></div></main>}

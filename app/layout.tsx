@@ -1,0 +1,1 @@
+import "./globals.css"; import type {Metadata} from "next"; export const metadata:Metadata={title:"中国工艺大厦｜商务办公空间",description:"北京朝阳区中国工艺大厦招商官网"}; export default function Layout({children}:{children:React.ReactNode}){return <html lang="zh-CN"><body>{children}</body></html>}
